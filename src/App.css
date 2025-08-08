@@ -1,1 +1,4 @@
 /* Not used with Tailwind; keep file to satisfy default import if present elsewhere */
+.border-red {
+  border: 1px solid red;
+}
