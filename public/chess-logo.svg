@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#g)"/>
+  <!-- Stylized chess pawn -->
+  <circle cx="32" cy="20" r="7" fill="#ffffff"/>
+  <rect x="24" y="28" width="16" height="9" rx="4.5" fill="#ffffff"/>
+  <rect x="19" y="39" width="26" height="8" rx="4" fill="#ffffff"/>
+  <rect x="16" y="48" width="32" height="6" rx="3" fill="#ffffff" opacity="0.95"/>
+</svg>
+
